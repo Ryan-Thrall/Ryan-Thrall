@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ryan-Thrall
-- 👀 I’m interested in ... C++, Game Dev, SDL2, Web Development
-- 🌱 I’m currently learning ... C++ and SDL2
-- 💞️ I’m looking to collaborate on ... Beginner C++ and Web Development projects
+- 👀 I’m interested in ... Web and Game Development
+- 🌱 I’m currently learning ... HTML, CSS, and JS.
+- 💞️ I’m looking to collaborate on ... Beginner Web Development Projects
 - 📫 How to reach me ... ryanthrall04@gmail.com
 
 <!---
