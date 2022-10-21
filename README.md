@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-Thrall
 - 👀 I’m interested in ... Web and Game Development
-- 🌱 I’m currently learning ... HTML, CSS, and JS.
+- 🌱 I’m currently learning ... HTML, CSS, JS, and Vue.
 - 💞️ I’m looking to collaborate on ... Beginner Web Development Projects
 - 📫 How to reach me ... ryanthrall04@gmail.com
 
